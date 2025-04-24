@@ -1,6 +1,7 @@
 ## 🐧 Bootcamp Penguin - Abril 2025
 
 ### 🧾 Día 1 - Anotaciones: [este notebook](./dia1.ipynb)
+### 🧾 Día 2 - Anotaciones: [este notebook](./dia2.ipynb)
 
 🌒 **Modo oscuro**
 
