@@ -20,7 +20,6 @@ Tus ojos te lo van a agradecer.
 
 - 🗂️ Anotaciones organizadas por día  
 - 💻 Ejercicios básicos
-- ✨ Algunas otras cosas random
   
 ---
 
